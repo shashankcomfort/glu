@@ -1,0 +1,23 @@
+export const Images = {
+  userpic: require("../assets/Images/userpic.png"),
+  test: require("../assets/Images/test.jpg"),
+  Notifications: require("../assets/Images/Notifications.png"),
+  Burger: require("../assets/Images/Burger.png"),
+  Break: require("../assets/Images/Break.png"),
+  Close: require("../assets/Images/Close.png"),
+  Left: require("../assets/Images/Left.png"),
+  Plus: require("../assets/Images/Plus.png"),
+  Star: require("../assets/Images/Star.png"),
+  heart: require("../assets/Images/heart.png"),
+  down: require("../assets/Images/down.png"),
+  Play: require("../assets/Images/ic_play.png"),
+  attach: require("../assets/Images/ic_attach.png"),
+  Favourite: require("../assets/Images/Favourite.png"),
+  Favourited: require("../assets/Images/Favourited.png"),
+
+  Dashboard_Nav: require("../assets/Images/Dashboard_Nav.png"),
+  Favourites_Nav: require("../assets/Images/Favourites_Nav.png"),
+  Home_Nav: require("../assets/Images/Home_Nav.png"),
+  Messages_Nav: require("../assets/Images/Messages_Nav.png"),
+  Search_Nav: require("../assets/Images/Search_Nav.png"),
+};
